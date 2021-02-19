@@ -34,6 +34,7 @@
                     <input type="text" id="name" class="form-control" placeholder="jo aqra" />
                 </div>
             </div>
+
             <!-- student name -->
 
             <!-- student gdpa -->
@@ -53,11 +54,11 @@
             </div>
         </div>
 
-        <center><label for="Del">Student ID to Delete / Update</label></center>
+        <center><label for="Del-Upd">Student ID to Delete / Update</label></center>
         <div class="input-group mb-3">
             <div class="row">
                 <div class="min col">
-                    <input type="number" class="form-control" placeholder="411420876" id="Del">
+                    <input type="number" class="form-control" placeholder="411420876" id="Del-Upd">
                 </div>
 
                 <div class="min col">
@@ -68,37 +69,31 @@
                 </div>
             </div>
         </div>
-
     </form>
+    <div id="table">
+    </div>
 
-    <table id="myTable" class=" table order-list">
-        <thead>
-        <tr>
-            <td>ID</td>
-            <td>Name</td>
-            <td>GDPA</td>
-        </tr>
-        </thead>
-    </table>
 
-</div>
-
-<div class="modal-bg">
-    <div class="modal">
-        <div class="form-group">
-            <label for="UpdateID">ID</label>
-            <input type="text" class="form-control" id="UpdateID" required>
-        </div>
-        <div class="form-group">
-            <label for="UpdateName">Name</label>
-            <input type="number" class="form-control" id="UpdateName" required>
-        </div>
-        <div class="form-group">
-            <label for="UpdateGDPA">GDPA</label>
-            <input type="number" class="form-control" id="UpdateGDPA" required>
+    <div class="modal-bg">
+        <div class="modal">
+            <div class="form-group">
+                <label for="UpdateID">ID</label>
+                <input type="text" class="form-control" id="UpdateID" required>
+            </div>
+            <div class="form-group">
+                <label for="UpdateName">Name</label>
+                <input type="number" class="form-control" id="UpdateName" required>
+            </div>
+            <div class="form-group">
+                <label for="UpdateGDPA">GDPA</label>
+                <input type="number" class="form-control" id="UpdateGDPA" required>
+            </div>
         </div>
     </div>
+
+
 </div>
+
 
 <script src="js/script.js"></script>
 </body>
