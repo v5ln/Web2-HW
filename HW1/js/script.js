@@ -17,6 +17,13 @@ function inputValidation(name, id, gdpa) {
         return;
     }
 
+    for (var i=0; i<students.length; i++){
+        if (students[i].id == id){
+            alert('student id is already exist');
+            return;
+        }
+    }
+
     if (name == '') {
         alert('Please insert the student name');
         return;
