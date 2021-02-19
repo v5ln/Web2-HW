@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2476a2d-382b-4719-a3a4-05dac6944490" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oYpvMh2BiAPtDSZpmRneT8KhQc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2476a2d-382b-4719-a3a4-05dac6944490" name="Default Changelist" comment="" />
+      <created>1613473607293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613473607293</updated>
+      <workItem from="1613473608417" duration="5310000" />
+      <workItem from="1613633650982" duration="7634000" />
+      <workItem from="1613664896503" duration="3603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="97" key="SettingsEditor" timestamp="1613750692890">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="136" y="97" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613750692890" />
+    <state x="795" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1613664908297">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="795" y="301" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1613664908297" />
+    <state x="458" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1613638931246">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="224" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1613638931246" />
+  </component>
+</project>
